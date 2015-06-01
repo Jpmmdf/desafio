@@ -12,6 +12,7 @@ public class Main {
 		texto.add("((1+1)*2) + (10+2) + (((2-1)-1)*1)");
 		texto.add("O Fulano (aquele que fez aniversário hoje) perguntou por você.");
 		texto.add("&:)");
+//		Teste Git
 
 		UtilText text = new UtilText();
 		for (String string : texto) {
